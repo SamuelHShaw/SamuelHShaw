@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamuelHShaw
-- 👀 I’m interested in project management, accessibility, inclusive design and the quorum programming language.
+- 👀 I’m interested in operations, project management, accessibility, and inclusive design.
 - 📫 How to reach me samuelhshaw@gmail.com
 
 <!---
